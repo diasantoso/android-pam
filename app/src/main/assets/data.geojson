@@ -1,0 +1,65 @@
+{
+  "result": [
+      {
+        "id": "1",
+        "longitude": "110.488007",
+        "latitude": "-7.755709",
+        "jenis":"music"
+      },
+      {
+        "id": "2",
+        "longitude": "110.40175",
+        "latitude": "-7.78336111111111",
+        "jenis":"wallet"
+      },
+      {
+        "id": "3",
+        "longitude": "110.368182",
+        "latitude": "-7.790494",
+        "jenis":"music"
+      },
+      {
+        "id": "4",
+        "longitude": "110.438031",
+        "latitude": "-7.783541",
+        "jenis":"wallet"
+      },
+      {
+        "id": "5",
+        "longitude": "110.402249",
+        "latitude": "-7.802429",
+        "jenis":"music"
+      },
+      {
+        "id": "6",
+        "longitude": "110.366301",
+        "latitude": "-7.789533",
+        "jenis":"wallet"
+      },
+      {
+        "id": "7",
+        "longitude": "110.4104444444",
+        "latitude": "-7.783344",
+        "jenis":"music"
+      },
+      {
+        "id": "8",
+        "longitude": "110.40124206608965",
+        "latitude": "-7.8192518124599815",
+        "jenis":"wallet"
+      },
+      {
+        "id": "9",
+        "longitude": "110.38963682751097",
+        "latitude": "-7.75969638495568",
+        "jenis":"music"
+      },
+      {
+        "id": "10",
+        "longitude": "110.368258849322162",
+        "latitude": "-7.750611371817072",
+        "jenis":"wallet"
+      }
+  ],
+  "message": 1
+}
